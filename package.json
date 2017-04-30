@@ -1,0 +1,32 @@
+{
+  "name": "allex_jsonizingerrorlowlevellib",
+  "version": "1.0.0",
+  "description": "Error that safe JSON.stringifies the provided input object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-lowlevel-libs/jsonizingerror.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "jsonizing",
+    "error",
+    "low",
+    "level",
+    "lib"
+  ],
+  "devDependencies": {
+    "chai": "3.x",
+    "allex_inheritlowlevellib": "1.x",
+    "allex_errorlowlevellib": "1.x"
+  },
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-lowlevel-libs/jsonizingerror/issues"
+  },
+  "homepage": "https://github.com/allex-lowlevel-libs/jsonizingerror#readme"
+}
